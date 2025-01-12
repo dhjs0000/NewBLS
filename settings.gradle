@@ -9,6 +9,5 @@ pluginManagement {
 
 include("common")
 include("fabric")
-include("forge")
 
-rootProject.name = "better-loading-screen"
+rootProject.name = "new-better-loading-screen-fabric"
